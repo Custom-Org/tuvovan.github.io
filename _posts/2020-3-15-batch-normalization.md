@@ -12,9 +12,7 @@ Source: [GitHub](https://github.com/amorehead/jazz-nn)
 
 ## Batch Normalization 
 
-### Motivation:
-
-    
+<!-- ### Motivation:
     Batch Normalization is basically one of the ideas that prevents gradient vanishing / gradient exploding. 
     So far, this problem has been solved with changes in Activation function (ReLU, etc.), Careful Initialization, and small learning rate, 
     but in this paper, it is a fundamental way to accelerate the learning speed by stabilizing the training process as a whole rather than these indirect methods.
@@ -43,4 +41,4 @@ Source: [GitHub](https://github.com/amorehead/jazz-nn)
     In the current Deep Network, if the learning rate is too high, the gradient explode/vanishing or fall into localminima. When using Batch Normalization,
     it is not affectd by the parameter scale when propagating, therefore the learning rate can be set greatly, which means faster training.
     
-    Batch Normalization has its own regulation properties which makes it possible to exclude Dropout or any other regulation terms.</li>
+    Batch Normalization has its own regulation properties which makes it possible to exclude Dropout or any other regulation terms. -->
